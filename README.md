@@ -1,6 +1,6 @@
-# Multi-Step Subscription Form
+# Multi-Step Form
 
-A simple multi-step subscription form built with Vue 3, TypeScript, Vite, and Tailwind CSS.
+A simple multi-step form built with Vue 3, TypeScript, Vite, and Tailwind CSS.
 
 ## Setup
 

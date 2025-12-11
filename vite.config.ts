@@ -7,5 +7,5 @@ export default defineConfig({
     vue(),
     tailwindcss(),
   ],
-  base: '/multi-step-subscription-form/'
+  base: '/multi-step-form/'
 })
