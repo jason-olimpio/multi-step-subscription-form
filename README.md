@@ -20,7 +20,7 @@ npm run preview
 
 - `npm run dev` – Start the local development server.  
 - `npm run build` – Build the app for production.  
-- `npm run preview` – Preview the production build locally.[1]
+- `npm run preview` – Preview the production build locally.
 
 ## Project Structure
 
